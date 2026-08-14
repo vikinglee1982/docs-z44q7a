@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hl5xqp.introduse.me/sitemap.xml
